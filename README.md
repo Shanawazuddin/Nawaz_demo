@@ -1,4 +1,4 @@
 # Nawaz_demo
 This is my first Repository
 <br>
-Author - Shanawaz (Mohammed Nawaz)
+Author - Shanawaz (Mohammed khaja shanawazuddin)
